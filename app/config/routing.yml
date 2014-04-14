@@ -1,0 +1,4 @@
+sign_ips_player:
+    resource: "@SignIPSPlayerBundle/Resources/config/routing.yml"
+    prefix:   /
+
